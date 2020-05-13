@@ -1,7 +1,7 @@
 
 body{
 background-color: #EAF6F6;
-
+color: #66BFBF;
 }
 
 hr{
@@ -9,7 +9,7 @@ border-color: grey;
 border-style: none;
 border-top-style: dotted;
 border-width: 5px;
-width: 5%
+width: 5%;
 }
 
 h1{
@@ -17,6 +17,17 @@ h1{
 
 }
 
+h2{
+  color: #66BFBF;
+}
+
 h3{
   color: #66BFBF;
+}
+
+p{
+  color:#63b7af
+}
+img{
+  border-radius:100%;
 }
